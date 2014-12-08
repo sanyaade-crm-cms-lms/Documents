@@ -39,6 +39,7 @@ Có 2 cách cài đặt trên Mac. Cách đơn giản nhất là sử dụng ch�
 
 
 ![Git osx installer](https://raw.githubusercontent.com/vsoft-lab/Documents/master/chap01/images/18333fig0107-tn.png)
+
 Chương trình cài đặt Git cho Mac OS X
 
 Một cách khác để cài đặt Git trên Mac là sử dụng MacPorts (http://www.macports.org). Nếu như bạn đã cài đặt MacPorts, Git có thể được cài đặt thông qua lệnh sau:
